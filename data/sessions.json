@@ -1,0 +1,3494 @@
+[
+  {
+    "id": "cd65b27a-14ac-4edd-abe7-bb4887a7d80b",
+    "studentName": "Tiara Hayes",
+    "mentorName": "David Wilson",
+    "date": "2026-05-10T00:34:44.486Z",
+    "duration": 69,
+    "overallScore": 84,
+    "metrics": [
+      {
+        "timestamp": "2026-05-10T00:34:44.486Z",
+        "engagement": 90,
+        "clarity": 63,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:38:22.380Z",
+        "engagement": 91,
+        "clarity": 63,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:42:00.275Z",
+        "engagement": 93,
+        "clarity": 65,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:45:38.170Z",
+        "engagement": 94,
+        "clarity": 66,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:49:16.064Z",
+        "engagement": 95,
+        "clarity": 68,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:52:53.959Z",
+        "engagement": 95,
+        "clarity": 69,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-10T00:56:31.854Z",
+        "engagement": 95,
+        "clarity": 71,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-10T01:00:09.749Z",
+        "engagement": 97,
+        "clarity": 71,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-10T01:03:47.643Z",
+        "engagement": 97,
+        "clarity": 71,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-10T01:07:25.538Z",
+        "engagement": 98,
+        "clarity": 71,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-10T01:11:03.433Z",
+        "engagement": 99,
+        "clarity": 73,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-10T01:14:41.328Z",
+        "engagement": 100,
+        "clarity": 73,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-10T01:18:19.222Z",
+        "engagement": 100,
+        "clarity": 73,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-10T01:21:57.117Z",
+        "engagement": 100,
+        "clarity": 73,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-10T01:25:35.012Z",
+        "engagement": 100,
+        "clarity": 73,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-10T01:29:12.907Z",
+        "engagement": 100,
+        "clarity": 73,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-10T01:32:50.801Z",
+        "engagement": 100,
+        "clarity": 75,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-10T01:36:28.696Z",
+        "engagement": 100,
+        "clarity": 77,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-10T01:40:06.591Z",
+        "engagement": 100,
+        "clarity": 79,
+        "pacing": 87
+      }
+    ]
+  },
+  {
+    "id": "fc371964-9f14-402d-973c-22277e8276ec",
+    "studentName": "Rodger Jacobson",
+    "mentorName": "Sarah Johnson",
+    "date": "2026-04-30T17:18:50.754Z",
+    "duration": 50,
+    "overallScore": 70,
+    "metrics": [
+      {
+        "timestamp": "2026-04-30T17:18:50.754Z",
+        "engagement": 85,
+        "clarity": 66,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-30T17:21:47.224Z",
+        "engagement": 83,
+        "clarity": 65,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-30T17:24:43.695Z",
+        "engagement": 81,
+        "clarity": 64,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-30T17:27:40.165Z",
+        "engagement": 79,
+        "clarity": 62,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-30T17:30:36.636Z",
+        "engagement": 78,
+        "clarity": 61,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-30T17:33:33.106Z",
+        "engagement": 77,
+        "clarity": 60,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-30T17:36:29.577Z",
+        "engagement": 77,
+        "clarity": 60,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-30T17:39:26.048Z",
+        "engagement": 77,
+        "clarity": 59,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-30T17:42:22.518Z",
+        "engagement": 76,
+        "clarity": 59,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-30T17:45:18.989Z",
+        "engagement": 74,
+        "clarity": 59,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-30T17:48:15.459Z",
+        "engagement": 72,
+        "clarity": 59,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-30T17:51:11.930Z",
+        "engagement": 70,
+        "clarity": 58,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-30T17:54:08.401Z",
+        "engagement": 69,
+        "clarity": 57,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T17:57:04.871Z",
+        "engagement": 69,
+        "clarity": 55,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T18:00:01.342Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-30T18:02:57.812Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-30T18:05:54.283Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 73
+      }
+    ]
+  },
+  {
+    "id": "5d069072-9022-46c8-9794-bbfe6f46d1fe",
+    "studentName": "Madeline Feest",
+    "mentorName": "Priya Sharma",
+    "date": "2026-04-10T11:35:35.733Z",
+    "duration": 48,
+    "overallScore": 76,
+    "metrics": [
+      {
+        "timestamp": "2026-04-10T11:35:35.733Z",
+        "engagement": 73,
+        "clarity": 88,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-10T11:38:07.311Z",
+        "engagement": 72,
+        "clarity": 87,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-10T11:40:38.890Z",
+        "engagement": 73,
+        "clarity": 87,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-10T11:43:10.469Z",
+        "engagement": 74,
+        "clarity": 88,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-10T11:45:42.048Z",
+        "engagement": 74,
+        "clarity": 87,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T11:48:13.627Z",
+        "engagement": 75,
+        "clarity": 87,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T11:50:45.206Z",
+        "engagement": 74,
+        "clarity": 86,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-10T11:53:16.785Z",
+        "engagement": 73,
+        "clarity": 86,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-10T11:55:48.364Z",
+        "engagement": 74,
+        "clarity": 85,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T11:58:19.943Z",
+        "engagement": 74,
+        "clarity": 86,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-10T12:00:51.522Z",
+        "engagement": 75,
+        "clarity": 85,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-04-10T12:03:23.101Z",
+        "engagement": 74,
+        "clarity": 85,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-04-10T12:05:54.680Z",
+        "engagement": 74,
+        "clarity": 86,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-10T12:08:26.259Z",
+        "engagement": 73,
+        "clarity": 87,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T12:10:57.838Z",
+        "engagement": 73,
+        "clarity": 86,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T12:13:29.417Z",
+        "engagement": 72,
+        "clarity": 87,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-10T12:16:00.996Z",
+        "engagement": 71,
+        "clarity": 86,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-10T12:18:32.575Z",
+        "engagement": 71,
+        "clarity": 86,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-10T12:21:04.154Z",
+        "engagement": 71,
+        "clarity": 87,
+        "pacing": 69
+      }
+    ]
+  },
+  {
+    "id": "852321d8-2047-46fd-9745-744fe9189b80",
+    "studentName": "Anna Stracke",
+    "mentorName": "Emily Davis",
+    "date": "2026-04-26T23:48:04.903Z",
+    "duration": 61,
+    "overallScore": 69,
+    "metrics": [
+      {
+        "timestamp": "2026-04-26T23:48:04.903Z",
+        "engagement": 70,
+        "clarity": 65,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-26T23:52:08.903Z",
+        "engagement": 69,
+        "clarity": 67,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-26T23:56:12.903Z",
+        "engagement": 67,
+        "clarity": 65,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-27T00:00:16.903Z",
+        "engagement": 66,
+        "clarity": 62,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-27T00:04:20.903Z",
+        "engagement": 65,
+        "clarity": 59,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-27T00:08:24.903Z",
+        "engagement": 63,
+        "clarity": 59,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-27T00:12:28.903Z",
+        "engagement": 63,
+        "clarity": 62,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-27T00:16:32.903Z",
+        "engagement": 63,
+        "clarity": 59,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-27T00:20:36.903Z",
+        "engagement": 62,
+        "clarity": 62,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-27T00:24:40.903Z",
+        "engagement": 60,
+        "clarity": 62,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-27T00:28:44.903Z",
+        "engagement": 60,
+        "clarity": 61,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-27T00:32:48.903Z",
+        "engagement": 63,
+        "clarity": 58,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-27T00:36:52.903Z",
+        "engagement": 66,
+        "clarity": 55,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-27T00:40:56.903Z",
+        "engagement": 63,
+        "clarity": 55,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-27T00:45:00.903Z",
+        "engagement": 66,
+        "clarity": 57,
+        "pacing": 83
+      }
+    ]
+  },
+  {
+    "id": "e1c8952c-41f3-4fc2-9f49-83b1784e257f",
+    "studentName": "Faith Vandervort-Bogisich",
+    "mentorName": "Michael Chen",
+    "date": "2026-04-14T23:57:47.517Z",
+    "duration": 78,
+    "overallScore": 91,
+    "metrics": [
+      {
+        "timestamp": "2026-04-14T23:57:47.517Z",
+        "engagement": 85,
+        "clarity": 87,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-15T00:02:07.517Z",
+        "engagement": 86,
+        "clarity": 89,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-15T00:06:27.517Z",
+        "engagement": 87,
+        "clarity": 91,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-15T00:10:47.517Z",
+        "engagement": 87,
+        "clarity": 93,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-15T00:15:07.517Z",
+        "engagement": 87,
+        "clarity": 95,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-15T00:19:27.517Z",
+        "engagement": 88,
+        "clarity": 96,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-15T00:23:47.517Z",
+        "engagement": 88,
+        "clarity": 98,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-15T00:28:07.517Z",
+        "engagement": 88,
+        "clarity": 100,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-04-15T00:32:27.517Z",
+        "engagement": 89,
+        "clarity": 100,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-15T00:36:47.517Z",
+        "engagement": 89,
+        "clarity": 100,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-15T00:41:07.517Z",
+        "engagement": 91,
+        "clarity": 100,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-15T00:45:27.517Z",
+        "engagement": 92,
+        "clarity": 100,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-15T00:49:47.517Z",
+        "engagement": 94,
+        "clarity": 100,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-04-15T00:54:07.517Z",
+        "engagement": 94,
+        "clarity": 100,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-04-15T00:58:27.517Z",
+        "engagement": 95,
+        "clarity": 100,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-15T01:02:47.517Z",
+        "engagement": 95,
+        "clarity": 100,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-04-15T01:07:07.517Z",
+        "engagement": 95,
+        "clarity": 100,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-04-15T01:11:27.517Z",
+        "engagement": 97,
+        "clarity": 100,
+        "pacing": 92
+      }
+    ]
+  },
+  {
+    "id": "bcec44ce-0cf2-4038-b825-95c50d1ce0aa",
+    "studentName": "Denise Harvey",
+    "mentorName": "Priya Sharma",
+    "date": "2026-04-06T09:32:06.354Z",
+    "duration": 81,
+    "overallScore": 66,
+    "metrics": [
+      {
+        "timestamp": "2026-04-06T09:32:06.354Z",
+        "engagement": 79,
+        "clarity": 60,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-06T09:36:22.143Z",
+        "engagement": 78,
+        "clarity": 58,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-06T09:40:37.932Z",
+        "engagement": 78,
+        "clarity": 58,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-06T09:44:53.722Z",
+        "engagement": 78,
+        "clarity": 57,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-06T09:49:09.511Z",
+        "engagement": 78,
+        "clarity": 55,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-06T09:53:25.301Z",
+        "engagement": 78,
+        "clarity": 55,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-06T09:57:41.090Z",
+        "engagement": 77,
+        "clarity": 55,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-06T10:01:56.880Z",
+        "engagement": 75,
+        "clarity": 55,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-06T10:06:12.669Z",
+        "engagement": 75,
+        "clarity": 55,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T10:10:28.459Z",
+        "engagement": 74,
+        "clarity": 55,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T10:14:44.248Z",
+        "engagement": 72,
+        "clarity": 55,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:19:00.038Z",
+        "engagement": 71,
+        "clarity": 55,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-06T10:23:15.827Z",
+        "engagement": 70,
+        "clarity": 55,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-06T10:27:31.617Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-06T10:31:47.406Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-04-06T10:36:03.196Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-04-06T10:40:18.985Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-04-06T10:44:34.775Z",
+        "engagement": 66,
+        "clarity": 55,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-04-06T10:48:50.564Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 65
+      }
+    ]
+  },
+  {
+    "id": "f41a11bf-8d5b-4b1d-976d-249d653af6cb",
+    "studentName": "Shakira Morissette",
+    "mentorName": "Alex Brown",
+    "date": "2026-05-21T08:58:11.162Z",
+    "duration": 88,
+    "overallScore": 78,
+    "metrics": [
+      {
+        "timestamp": "2026-05-21T08:58:11.162Z",
+        "engagement": 85,
+        "clarity": 66,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-21T09:02:49.056Z",
+        "engagement": 85,
+        "clarity": 66,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-21T09:07:26.951Z",
+        "engagement": 86,
+        "clarity": 66,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-21T09:12:04.846Z",
+        "engagement": 85,
+        "clarity": 66,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-21T09:16:42.740Z",
+        "engagement": 84,
+        "clarity": 66,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-21T09:21:20.635Z",
+        "engagement": 84,
+        "clarity": 67,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-21T09:25:58.530Z",
+        "engagement": 83,
+        "clarity": 67,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-21T09:30:36.425Z",
+        "engagement": 84,
+        "clarity": 67,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-21T09:35:14.319Z",
+        "engagement": 85,
+        "clarity": 67,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-21T09:39:52.214Z",
+        "engagement": 85,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-21T09:44:30.109Z",
+        "engagement": 85,
+        "clarity": 68,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-21T09:49:08.004Z",
+        "engagement": 84,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-21T09:53:45.898Z",
+        "engagement": 83,
+        "clarity": 69,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-21T09:58:23.793Z",
+        "engagement": 83,
+        "clarity": 68,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-21T10:03:01.688Z",
+        "engagement": 82,
+        "clarity": 67,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-21T10:07:39.583Z",
+        "engagement": 82,
+        "clarity": 68,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-21T10:12:17.477Z",
+        "engagement": 82,
+        "clarity": 69,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-21T10:16:55.372Z",
+        "engagement": 83,
+        "clarity": 69,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-21T10:21:33.267Z",
+        "engagement": 82,
+        "clarity": 70,
+        "pacing": 79
+      }
+    ]
+  },
+  {
+    "id": "b30feb87-91d3-441c-8b28-8f4120901985",
+    "studentName": "Julio Monahan DDS",
+    "mentorName": "Emily Davis",
+    "date": "2026-04-25T15:27:46.739Z",
+    "duration": 89,
+    "overallScore": 70,
+    "metrics": [
+      {
+        "timestamp": "2026-04-25T15:27:46.739Z",
+        "engagement": 75,
+        "clarity": 69,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-25T15:32:27.791Z",
+        "engagement": 74,
+        "clarity": 68,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-25T15:37:08.844Z",
+        "engagement": 71,
+        "clarity": 65,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-25T15:41:49.896Z",
+        "engagement": 68,
+        "clarity": 66,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-25T15:46:30.949Z",
+        "engagement": 70,
+        "clarity": 66,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-25T15:51:12.002Z",
+        "engagement": 67,
+        "clarity": 67,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-25T15:55:53.054Z",
+        "engagement": 64,
+        "clarity": 70,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-25T16:00:34.107Z",
+        "engagement": 63,
+        "clarity": 67,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-25T16:05:15.160Z",
+        "engagement": 60,
+        "clarity": 64,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T16:09:56.212Z",
+        "engagement": 63,
+        "clarity": 63,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-25T16:14:37.265Z",
+        "engagement": 61,
+        "clarity": 66,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T16:19:18.317Z",
+        "engagement": 60,
+        "clarity": 66,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-25T16:23:59.370Z",
+        "engagement": 60,
+        "clarity": 67,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-25T16:28:40.423Z",
+        "engagement": 60,
+        "clarity": 69,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-25T16:33:21.475Z",
+        "engagement": 60,
+        "clarity": 69,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T16:38:02.528Z",
+        "engagement": 61,
+        "clarity": 67,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-25T16:42:43.581Z",
+        "engagement": 60,
+        "clarity": 69,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-25T16:47:24.633Z",
+        "engagement": 60,
+        "clarity": 66,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-25T16:52:05.686Z",
+        "engagement": 60,
+        "clarity": 65,
+        "pacing": 82
+      }
+    ]
+  },
+  {
+    "id": "46a1ae76-17fc-498b-b71a-9defef5a8727",
+    "studentName": "Sheila Labadie Sr.",
+    "mentorName": "David Wilson",
+    "date": "2026-04-25T09:39:36.837Z",
+    "duration": 85,
+    "overallScore": 82,
+    "metrics": [
+      {
+        "timestamp": "2026-04-25T09:39:36.837Z",
+        "engagement": 66,
+        "clarity": 83,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-25T09:44:55.587Z",
+        "engagement": 66,
+        "clarity": 85,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-25T09:50:14.337Z",
+        "engagement": 68,
+        "clarity": 86,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-25T09:55:33.087Z",
+        "engagement": 69,
+        "clarity": 87,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T10:00:51.837Z",
+        "engagement": 71,
+        "clarity": 89,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T10:06:10.587Z",
+        "engagement": 73,
+        "clarity": 90,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T10:11:29.337Z",
+        "engagement": 75,
+        "clarity": 90,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-25T10:16:48.087Z",
+        "engagement": 75,
+        "clarity": 90,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-25T10:22:06.837Z",
+        "engagement": 77,
+        "clarity": 92,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-25T10:27:25.587Z",
+        "engagement": 78,
+        "clarity": 93,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-25T10:32:44.337Z",
+        "engagement": 80,
+        "clarity": 95,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-25T10:38:03.087Z",
+        "engagement": 80,
+        "clarity": 96,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-25T10:43:21.837Z",
+        "engagement": 82,
+        "clarity": 98,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-25T10:48:40.587Z",
+        "engagement": 84,
+        "clarity": 99,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-25T10:53:59.337Z",
+        "engagement": 86,
+        "clarity": 99,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-25T10:59:18.087Z",
+        "engagement": 86,
+        "clarity": 99,
+        "pacing": 82
+      }
+    ]
+  },
+  {
+    "id": "01ce2847-aacf-4da1-95f1-8b5bc57ed3b5",
+    "studentName": "Mr. Rudy Schowalter",
+    "mentorName": "Alex Brown",
+    "date": "2026-04-22T04:49:45.531Z",
+    "duration": 67,
+    "overallScore": 65,
+    "metrics": [
+      {
+        "timestamp": "2026-04-22T04:49:45.531Z",
+        "engagement": 70,
+        "clarity": 63,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-22T04:53:06.531Z",
+        "engagement": 70,
+        "clarity": 61,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-22T04:56:27.531Z",
+        "engagement": 70,
+        "clarity": 60,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-22T04:59:48.531Z",
+        "engagement": 69,
+        "clarity": 58,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-22T05:03:09.531Z",
+        "engagement": 69,
+        "clarity": 57,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-22T05:06:30.531Z",
+        "engagement": 68,
+        "clarity": 56,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-22T05:09:51.531Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-22T05:13:12.531Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-22T05:16:33.531Z",
+        "engagement": 67,
+        "clarity": 55,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-22T05:19:54.531Z",
+        "engagement": 66,
+        "clarity": 55,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-22T05:23:15.531Z",
+        "engagement": 66,
+        "clarity": 55,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-22T05:26:36.531Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T05:29:57.531Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-22T05:33:18.531Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-22T05:36:39.531Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-22T05:40:00.531Z",
+        "engagement": 64,
+        "clarity": 55,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-22T05:43:21.531Z",
+        "engagement": 62,
+        "clarity": 55,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-22T05:46:42.531Z",
+        "engagement": 60,
+        "clarity": 55,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-22T05:50:03.531Z",
+        "engagement": 60,
+        "clarity": 55,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-22T05:53:24.531Z",
+        "engagement": 60,
+        "clarity": 55,
+        "pacing": 69
+      }
+    ]
+  },
+  {
+    "id": "291304aa-ced9-4f31-8cf8-db79670b8db0",
+    "studentName": "Gisselle Lehner",
+    "mentorName": "Alex Brown",
+    "date": "2026-04-14T07:54:45.865Z",
+    "duration": 85,
+    "overallScore": 80,
+    "metrics": [
+      {
+        "timestamp": "2026-04-14T07:54:45.865Z",
+        "engagement": 78,
+        "clarity": 81,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-14T08:00:04.615Z",
+        "engagement": 78,
+        "clarity": 80,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-14T08:05:23.365Z",
+        "engagement": 79,
+        "clarity": 79,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-14T08:10:42.115Z",
+        "engagement": 78,
+        "clarity": 78,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-14T08:16:00.865Z",
+        "engagement": 79,
+        "clarity": 77,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-14T08:21:19.615Z",
+        "engagement": 80,
+        "clarity": 76,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-14T08:26:38.365Z",
+        "engagement": 80,
+        "clarity": 76,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-14T08:31:57.115Z",
+        "engagement": 80,
+        "clarity": 77,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-14T08:37:15.865Z",
+        "engagement": 80,
+        "clarity": 78,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-14T08:42:34.615Z",
+        "engagement": 81,
+        "clarity": 78,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-14T08:47:53.365Z",
+        "engagement": 80,
+        "clarity": 79,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-14T08:53:12.115Z",
+        "engagement": 80,
+        "clarity": 79,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-14T08:58:30.865Z",
+        "engagement": 81,
+        "clarity": 79,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-14T09:03:49.615Z",
+        "engagement": 80,
+        "clarity": 79,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-14T09:09:08.365Z",
+        "engagement": 81,
+        "clarity": 79,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-14T09:14:27.115Z",
+        "engagement": 81,
+        "clarity": 80,
+        "pacing": 84
+      }
+    ]
+  },
+  {
+    "id": "179be55a-b37e-43fb-be80-dbd47ddd2013",
+    "studentName": "Alan Ondricka",
+    "mentorName": "Sarah Johnson",
+    "date": "2026-05-15T19:24:04.459Z",
+    "duration": 63,
+    "overallScore": 81,
+    "metrics": [
+      {
+        "timestamp": "2026-05-15T19:24:04.459Z",
+        "engagement": 89,
+        "clarity": 70,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-05-15T19:27:23.406Z",
+        "engagement": 91,
+        "clarity": 73,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-05-15T19:30:42.353Z",
+        "engagement": 93,
+        "clarity": 73,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-05-15T19:34:01.301Z",
+        "engagement": 96,
+        "clarity": 76,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-05-15T19:37:20.248Z",
+        "engagement": 96,
+        "clarity": 77,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-05-15T19:40:39.195Z",
+        "engagement": 96,
+        "clarity": 74,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-15T19:43:58.143Z",
+        "engagement": 94,
+        "clarity": 72,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-15T19:47:17.090Z",
+        "engagement": 91,
+        "clarity": 73,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-15T19:50:36.037Z",
+        "engagement": 91,
+        "clarity": 75,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-15T19:53:54.985Z",
+        "engagement": 89,
+        "clarity": 76,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-15T19:57:13.932Z",
+        "engagement": 90,
+        "clarity": 74,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-15T20:00:32.880Z",
+        "engagement": 89,
+        "clarity": 75,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-15T20:03:51.827Z",
+        "engagement": 86,
+        "clarity": 74,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-15T20:07:10.774Z",
+        "engagement": 88,
+        "clarity": 74,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-15T20:10:29.722Z",
+        "engagement": 89,
+        "clarity": 71,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-15T20:13:48.669Z",
+        "engagement": 88,
+        "clarity": 69,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-15T20:17:07.616Z",
+        "engagement": 87,
+        "clarity": 72,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-15T20:20:26.564Z",
+        "engagement": 90,
+        "clarity": 75,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-15T20:23:45.511Z",
+        "engagement": 92,
+        "clarity": 73,
+        "pacing": 83
+      }
+    ]
+  },
+  {
+    "id": "0041546a-1848-4ff7-820c-eda7d714c8c5",
+    "studentName": "Annabel Schultz",
+    "mentorName": "David Wilson",
+    "date": "2026-05-04T14:47:03.631Z",
+    "duration": 76,
+    "overallScore": 91,
+    "metrics": [
+      {
+        "timestamp": "2026-05-04T14:47:03.631Z",
+        "engagement": 75,
+        "clarity": 86,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-04T14:51:16.964Z",
+        "engagement": 77,
+        "clarity": 86,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-05-04T14:55:30.297Z",
+        "engagement": 79,
+        "clarity": 86,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-04T14:59:43.631Z",
+        "engagement": 80,
+        "clarity": 86,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-04T15:03:56.964Z",
+        "engagement": 82,
+        "clarity": 87,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-04T15:08:10.297Z",
+        "engagement": 83,
+        "clarity": 89,
+        "pacing": 93
+      },
+      {
+        "timestamp": "2026-05-04T15:12:23.631Z",
+        "engagement": 83,
+        "clarity": 89,
+        "pacing": 94
+      },
+      {
+        "timestamp": "2026-05-04T15:16:36.964Z",
+        "engagement": 84,
+        "clarity": 90,
+        "pacing": 95
+      },
+      {
+        "timestamp": "2026-05-04T15:20:50.297Z",
+        "engagement": 86,
+        "clarity": 91,
+        "pacing": 95
+      },
+      {
+        "timestamp": "2026-05-04T15:25:03.631Z",
+        "engagement": 86,
+        "clarity": 93,
+        "pacing": 95
+      },
+      {
+        "timestamp": "2026-05-04T15:29:16.964Z",
+        "engagement": 88,
+        "clarity": 93,
+        "pacing": 96
+      },
+      {
+        "timestamp": "2026-05-04T15:33:30.297Z",
+        "engagement": 88,
+        "clarity": 95,
+        "pacing": 97
+      },
+      {
+        "timestamp": "2026-05-04T15:37:43.631Z",
+        "engagement": 89,
+        "clarity": 95,
+        "pacing": 97
+      },
+      {
+        "timestamp": "2026-05-04T15:41:56.964Z",
+        "engagement": 91,
+        "clarity": 96,
+        "pacing": 97
+      },
+      {
+        "timestamp": "2026-05-04T15:46:10.297Z",
+        "engagement": 92,
+        "clarity": 96,
+        "pacing": 98
+      },
+      {
+        "timestamp": "2026-05-04T15:50:23.631Z",
+        "engagement": 94,
+        "clarity": 97,
+        "pacing": 99
+      },
+      {
+        "timestamp": "2026-05-04T15:54:36.964Z",
+        "engagement": 95,
+        "clarity": 99,
+        "pacing": 99
+      },
+      {
+        "timestamp": "2026-05-04T15:58:50.297Z",
+        "engagement": 96,
+        "clarity": 100,
+        "pacing": 99
+      }
+    ]
+  },
+  {
+    "id": "ea28b05a-48b1-4fd6-a4f7-eec13e05ff1e",
+    "studentName": "Leah Murazik",
+    "mentorName": "Sarah Johnson",
+    "date": "2026-04-28T23:44:19.203Z",
+    "duration": 60,
+    "overallScore": 73,
+    "metrics": [
+      {
+        "timestamp": "2026-04-28T23:44:19.203Z",
+        "engagement": 80,
+        "clarity": 73,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-04-28T23:47:50.967Z",
+        "engagement": 78,
+        "clarity": 72,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-28T23:51:22.732Z",
+        "engagement": 76,
+        "clarity": 71,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-28T23:54:54.497Z",
+        "engagement": 74,
+        "clarity": 70,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-28T23:58:26.261Z",
+        "engagement": 74,
+        "clarity": 70,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-29T00:01:58.026Z",
+        "engagement": 73,
+        "clarity": 70,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-29T00:05:29.791Z",
+        "engagement": 71,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-29T00:09:01.555Z",
+        "engagement": 69,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-29T00:12:33.320Z",
+        "engagement": 69,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-29T00:16:05.085Z",
+        "engagement": 69,
+        "clarity": 66,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-29T00:19:36.850Z",
+        "engagement": 68,
+        "clarity": 66,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-29T00:23:08.614Z",
+        "engagement": 68,
+        "clarity": 65,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-29T00:26:40.379Z",
+        "engagement": 67,
+        "clarity": 63,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-29T00:30:12.144Z",
+        "engagement": 67,
+        "clarity": 63,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-29T00:33:43.908Z",
+        "engagement": 65,
+        "clarity": 62,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-29T00:37:15.673Z",
+        "engagement": 63,
+        "clarity": 61,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-29T00:40:47.438Z",
+        "engagement": 63,
+        "clarity": 60,
+        "pacing": 77
+      }
+    ]
+  },
+  {
+    "id": "c8a2ed4a-5e40-4ee0-84c9-0c07a700e3b5",
+    "studentName": "Efrain Bergstrom",
+    "mentorName": "Priya Sharma",
+    "date": "2026-04-16T10:54:59.358Z",
+    "duration": 71,
+    "overallScore": 75,
+    "metrics": [
+      {
+        "timestamp": "2026-04-16T10:54:59.358Z",
+        "engagement": 90,
+        "clarity": 62,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-16T10:58:32.358Z",
+        "engagement": 90,
+        "clarity": 61,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-16T11:02:05.358Z",
+        "engagement": 90,
+        "clarity": 60,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-16T11:05:38.358Z",
+        "engagement": 90,
+        "clarity": 60,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-16T11:09:11.358Z",
+        "engagement": 90,
+        "clarity": 61,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-16T11:12:44.358Z",
+        "engagement": 90,
+        "clarity": 60,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-16T11:16:17.358Z",
+        "engagement": 90,
+        "clarity": 61,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-16T11:19:50.358Z",
+        "engagement": 90,
+        "clarity": 62,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-16T11:23:23.358Z",
+        "engagement": 89,
+        "clarity": 62,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-16T11:26:56.358Z",
+        "engagement": 89,
+        "clarity": 61,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-16T11:30:29.358Z",
+        "engagement": 88,
+        "clarity": 61,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-16T11:34:02.358Z",
+        "engagement": 87,
+        "clarity": 60,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-16T11:37:35.358Z",
+        "engagement": 86,
+        "clarity": 59,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-16T11:41:08.358Z",
+        "engagement": 87,
+        "clarity": 58,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-16T11:44:41.358Z",
+        "engagement": 87,
+        "clarity": 58,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-16T11:48:14.358Z",
+        "engagement": 88,
+        "clarity": 58,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-16T11:51:47.358Z",
+        "engagement": 89,
+        "clarity": 58,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-16T11:55:20.358Z",
+        "engagement": 88,
+        "clarity": 57,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-16T11:58:53.358Z",
+        "engagement": 89,
+        "clarity": 56,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-16T12:02:26.358Z",
+        "engagement": 88,
+        "clarity": 55,
+        "pacing": 78
+      }
+    ]
+  },
+  {
+    "id": "62ee685b-b20e-4970-bb6b-d93141cbe808",
+    "studentName": "Alysson Beer",
+    "mentorName": "David Wilson",
+    "date": "2026-04-06T10:18:59.929Z",
+    "duration": 53,
+    "overallScore": 70,
+    "metrics": [
+      {
+        "timestamp": "2026-04-06T10:18:59.929Z",
+        "engagement": 90,
+        "clarity": 62,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:22:31.929Z",
+        "engagement": 88,
+        "clarity": 65,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-06T10:26:03.929Z",
+        "engagement": 85,
+        "clarity": 65,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T10:29:35.929Z",
+        "engagement": 85,
+        "clarity": 63,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:33:07.929Z",
+        "engagement": 82,
+        "clarity": 61,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:36:39.929Z",
+        "engagement": 84,
+        "clarity": 58,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T10:40:11.929Z",
+        "engagement": 87,
+        "clarity": 57,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-06T10:43:43.929Z",
+        "engagement": 84,
+        "clarity": 55,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:47:15.929Z",
+        "engagement": 81,
+        "clarity": 57,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-06T10:50:47.929Z",
+        "engagement": 78,
+        "clarity": 60,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T10:54:19.929Z",
+        "engagement": 76,
+        "clarity": 61,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T10:57:51.929Z",
+        "engagement": 73,
+        "clarity": 58,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T11:01:23.929Z",
+        "engagement": 70,
+        "clarity": 61,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-06T11:04:55.929Z",
+        "engagement": 67,
+        "clarity": 61,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-06T11:08:27.929Z",
+        "engagement": 66,
+        "clarity": 62,
+        "pacing": 72
+      }
+    ]
+  },
+  {
+    "id": "c02e406f-21d6-462f-94ac-18635aa7b591",
+    "studentName": "Edgardo Okuneva",
+    "mentorName": "Priya Sharma",
+    "date": "2026-05-26T18:01:06.302Z",
+    "duration": 80,
+    "overallScore": 90,
+    "metrics": [
+      {
+        "timestamp": "2026-05-26T18:01:06.302Z",
+        "engagement": 88,
+        "clarity": 82,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-26T18:06:06.302Z",
+        "engagement": 89,
+        "clarity": 84,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-26T18:11:06.302Z",
+        "engagement": 90,
+        "clarity": 86,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-26T18:16:06.302Z",
+        "engagement": 91,
+        "clarity": 87,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-26T18:21:06.302Z",
+        "engagement": 92,
+        "clarity": 89,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-26T18:26:06.302Z",
+        "engagement": 92,
+        "clarity": 91,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-26T18:31:06.302Z",
+        "engagement": 94,
+        "clarity": 92,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-26T18:36:06.302Z",
+        "engagement": 96,
+        "clarity": 93,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-26T18:41:06.302Z",
+        "engagement": 98,
+        "clarity": 93,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-26T18:46:06.302Z",
+        "engagement": 98,
+        "clarity": 94,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-26T18:51:06.302Z",
+        "engagement": 98,
+        "clarity": 95,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-26T18:56:06.302Z",
+        "engagement": 100,
+        "clarity": 95,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-26T19:01:06.302Z",
+        "engagement": 100,
+        "clarity": 97,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-26T19:06:06.302Z",
+        "engagement": 100,
+        "clarity": 99,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-26T19:11:06.302Z",
+        "engagement": 100,
+        "clarity": 99,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-26T19:16:06.302Z",
+        "engagement": 100,
+        "clarity": 100,
+        "pacing": 86
+      }
+    ]
+  },
+  {
+    "id": "66d16279-bc9a-44e8-b2e6-ea2259665991",
+    "studentName": "Jovani McClure PhD",
+    "mentorName": "Michael Chen",
+    "date": "2026-04-22T17:47:53.252Z",
+    "duration": 53,
+    "overallScore": 72,
+    "metrics": [
+      {
+        "timestamp": "2026-04-22T17:47:53.252Z",
+        "engagement": 74,
+        "clarity": 86,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-22T17:51:12.002Z",
+        "engagement": 73,
+        "clarity": 84,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-22T17:54:30.752Z",
+        "engagement": 72,
+        "clarity": 82,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-22T17:57:49.502Z",
+        "engagement": 72,
+        "clarity": 80,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-22T18:01:08.252Z",
+        "engagement": 71,
+        "clarity": 79,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-22T18:04:27.002Z",
+        "engagement": 70,
+        "clarity": 78,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:07:45.752Z",
+        "engagement": 70,
+        "clarity": 77,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:11:04.502Z",
+        "engagement": 69,
+        "clarity": 76,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:14:23.252Z",
+        "engagement": 68,
+        "clarity": 75,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:17:42.002Z",
+        "engagement": 67,
+        "clarity": 73,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:21:00.752Z",
+        "engagement": 65,
+        "clarity": 71,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-22T18:24:19.502Z",
+        "engagement": 63,
+        "clarity": 71,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-22T18:27:38.252Z",
+        "engagement": 61,
+        "clarity": 71,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-22T18:30:57.002Z",
+        "engagement": 60,
+        "clarity": 70,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-22T18:34:15.752Z",
+        "engagement": 60,
+        "clarity": 69,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-22T18:37:34.502Z",
+        "engagement": 60,
+        "clarity": 69,
+        "pacing": 70
+      }
+    ]
+  },
+  {
+    "id": "787dbd21-d1a2-4720-8bdb-0fb123454cdd",
+    "studentName": "Kristian McDermott",
+    "mentorName": "Alex Brown",
+    "date": "2026-05-14T19:40:13.223Z",
+    "duration": 59,
+    "overallScore": 76,
+    "metrics": [
+      {
+        "timestamp": "2026-05-14T19:40:13.223Z",
+        "engagement": 79,
+        "clarity": 76,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-05-14T19:43:10.223Z",
+        "engagement": 79,
+        "clarity": 76,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-05-14T19:46:07.223Z",
+        "engagement": 80,
+        "clarity": 77,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-05-14T19:49:04.223Z",
+        "engagement": 79,
+        "clarity": 78,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-05-14T19:52:01.223Z",
+        "engagement": 80,
+        "clarity": 78,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-05-14T19:54:58.223Z",
+        "engagement": 81,
+        "clarity": 79,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-05-14T19:57:55.223Z",
+        "engagement": 81,
+        "clarity": 78,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-05-14T20:00:52.223Z",
+        "engagement": 81,
+        "clarity": 77,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-05-14T20:03:49.223Z",
+        "engagement": 82,
+        "clarity": 77,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-05-14T20:06:46.223Z",
+        "engagement": 83,
+        "clarity": 78,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-05-14T20:09:43.223Z",
+        "engagement": 83,
+        "clarity": 77,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-05-14T20:12:40.223Z",
+        "engagement": 84,
+        "clarity": 76,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-05-14T20:15:37.223Z",
+        "engagement": 84,
+        "clarity": 76,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-05-14T20:18:34.223Z",
+        "engagement": 84,
+        "clarity": 75,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-05-14T20:21:31.223Z",
+        "engagement": 84,
+        "clarity": 74,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-05-14T20:24:28.223Z",
+        "engagement": 83,
+        "clarity": 74,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-05-14T20:27:25.223Z",
+        "engagement": 84,
+        "clarity": 74,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-05-14T20:30:22.223Z",
+        "engagement": 84,
+        "clarity": 75,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-05-14T20:33:19.223Z",
+        "engagement": 85,
+        "clarity": 76,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-05-14T20:36:16.223Z",
+        "engagement": 86,
+        "clarity": 77,
+        "pacing": 67
+      }
+    ]
+  },
+  {
+    "id": "e3434999-bd07-4760-9c4d-799379856685",
+    "studentName": "Lora Rodriguez",
+    "mentorName": "Priya Sharma",
+    "date": "2026-05-17T07:15:47.981Z",
+    "duration": 90,
+    "overallScore": 77,
+    "metrics": [
+      {
+        "timestamp": "2026-05-17T07:15:47.981Z",
+        "engagement": 86,
+        "clarity": 68,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-17T07:20:47.981Z",
+        "engagement": 87,
+        "clarity": 66,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-17T07:25:47.981Z",
+        "engagement": 84,
+        "clarity": 67,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-17T07:30:47.981Z",
+        "engagement": 82,
+        "clarity": 65,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-17T07:35:47.981Z",
+        "engagement": 83,
+        "clarity": 64,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-17T07:40:47.981Z",
+        "engagement": 81,
+        "clarity": 61,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-17T07:45:47.981Z",
+        "engagement": 81,
+        "clarity": 64,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-17T07:50:47.981Z",
+        "engagement": 82,
+        "clarity": 62,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-17T07:55:47.981Z",
+        "engagement": 81,
+        "clarity": 61,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-17T08:00:47.981Z",
+        "engagement": 80,
+        "clarity": 62,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-17T08:05:47.981Z",
+        "engagement": 83,
+        "clarity": 61,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-17T08:10:47.981Z",
+        "engagement": 85,
+        "clarity": 62,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-17T08:15:47.981Z",
+        "engagement": 87,
+        "clarity": 61,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-17T08:20:47.981Z",
+        "engagement": 86,
+        "clarity": 61,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-05-17T08:25:47.981Z",
+        "engagement": 88,
+        "clarity": 58,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-17T08:30:47.981Z",
+        "engagement": 88,
+        "clarity": 56,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-17T08:35:47.981Z",
+        "engagement": 87,
+        "clarity": 59,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-17T08:40:47.981Z",
+        "engagement": 87,
+        "clarity": 56,
+        "pacing": 86
+      }
+    ]
+  },
+  {
+    "id": "28779167-cedc-416d-a29e-0e8b6d469c1b",
+    "studentName": "Carlie Wyman Sr.",
+    "mentorName": "David Wilson",
+    "date": "2026-05-18T06:05:22.947Z",
+    "duration": 56,
+    "overallScore": 87,
+    "metrics": [
+      {
+        "timestamp": "2026-05-18T06:05:22.947Z",
+        "engagement": 72,
+        "clarity": 89,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-18T06:09:06.947Z",
+        "engagement": 73,
+        "clarity": 89,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-18T06:12:50.947Z",
+        "engagement": 75,
+        "clarity": 91,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-18T06:16:34.947Z",
+        "engagement": 77,
+        "clarity": 91,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-18T06:20:18.947Z",
+        "engagement": 77,
+        "clarity": 92,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-18T06:24:02.947Z",
+        "engagement": 77,
+        "clarity": 94,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-18T06:27:46.947Z",
+        "engagement": 78,
+        "clarity": 96,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-18T06:31:30.947Z",
+        "engagement": 80,
+        "clarity": 97,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-18T06:35:14.947Z",
+        "engagement": 80,
+        "clarity": 97,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-05-18T06:38:58.947Z",
+        "engagement": 80,
+        "clarity": 97,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-05-18T06:42:42.947Z",
+        "engagement": 82,
+        "clarity": 99,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-05-18T06:46:26.947Z",
+        "engagement": 84,
+        "clarity": 100,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-05-18T06:50:10.947Z",
+        "engagement": 84,
+        "clarity": 100,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-18T06:53:54.947Z",
+        "engagement": 86,
+        "clarity": 100,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-18T06:57:38.947Z",
+        "engagement": 87,
+        "clarity": 100,
+        "pacing": 90
+      }
+    ]
+  },
+  {
+    "id": "cc480b99-1680-4d05-9a30-7c7713092c36",
+    "studentName": "Colleen Bosco",
+    "mentorName": "Michael Chen",
+    "date": "2026-04-14T22:05:55.969Z",
+    "duration": 51,
+    "overallScore": 69,
+    "metrics": [
+      {
+        "timestamp": "2026-04-14T22:05:55.969Z",
+        "engagement": 84,
+        "clarity": 75,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-14T22:08:45.969Z",
+        "engagement": 83,
+        "clarity": 74,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-14T22:11:35.969Z",
+        "engagement": 81,
+        "clarity": 73,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-14T22:14:25.969Z",
+        "engagement": 81,
+        "clarity": 73,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-14T22:17:15.969Z",
+        "engagement": 81,
+        "clarity": 71,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-14T22:20:05.969Z",
+        "engagement": 80,
+        "clarity": 70,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-14T22:22:55.969Z",
+        "engagement": 78,
+        "clarity": 68,
+        "pacing": 71
+      },
+      {
+        "timestamp": "2026-04-14T22:25:45.969Z",
+        "engagement": 77,
+        "clarity": 66,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-14T22:28:35.969Z",
+        "engagement": 75,
+        "clarity": 66,
+        "pacing": 70
+      },
+      {
+        "timestamp": "2026-04-14T22:31:25.969Z",
+        "engagement": 74,
+        "clarity": 66,
+        "pacing": 69
+      },
+      {
+        "timestamp": "2026-04-14T22:34:15.969Z",
+        "engagement": 72,
+        "clarity": 65,
+        "pacing": 68
+      },
+      {
+        "timestamp": "2026-04-14T22:37:05.969Z",
+        "engagement": 70,
+        "clarity": 63,
+        "pacing": 67
+      },
+      {
+        "timestamp": "2026-04-14T22:39:55.969Z",
+        "engagement": 68,
+        "clarity": 62,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-04-14T22:42:45.969Z",
+        "engagement": 67,
+        "clarity": 60,
+        "pacing": 66
+      },
+      {
+        "timestamp": "2026-04-14T22:45:35.969Z",
+        "engagement": 66,
+        "clarity": 60,
+        "pacing": 65
+      },
+      {
+        "timestamp": "2026-04-14T22:48:25.969Z",
+        "engagement": 64,
+        "clarity": 58,
+        "pacing": 65
+      },
+      {
+        "timestamp": "2026-04-14T22:51:15.969Z",
+        "engagement": 62,
+        "clarity": 56,
+        "pacing": 65
+      },
+      {
+        "timestamp": "2026-04-14T22:54:05.969Z",
+        "engagement": 60,
+        "clarity": 55,
+        "pacing": 65
+      }
+    ]
+  },
+  {
+    "id": "26707d91-0ac5-4dc0-93f3-cef6d0047683",
+    "studentName": "Laurence Mertz-Howell",
+    "mentorName": "Michael Chen",
+    "date": "2026-05-11T22:33:28.251Z",
+    "duration": 69,
+    "overallScore": 84,
+    "metrics": [
+      {
+        "timestamp": "2026-05-11T22:33:28.251Z",
+        "engagement": 91,
+        "clarity": 77,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-05-11T22:38:04.251Z",
+        "engagement": 92,
+        "clarity": 77,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-11T22:42:40.251Z",
+        "engagement": 91,
+        "clarity": 76,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-11T22:47:16.251Z",
+        "engagement": 92,
+        "clarity": 77,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-11T22:51:52.251Z",
+        "engagement": 93,
+        "clarity": 78,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-11T22:56:28.251Z",
+        "engagement": 93,
+        "clarity": 79,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-11T23:01:04.251Z",
+        "engagement": 93,
+        "clarity": 80,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-11T23:05:40.251Z",
+        "engagement": 92,
+        "clarity": 80,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-11T23:10:16.251Z",
+        "engagement": 93,
+        "clarity": 80,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-11T23:14:52.251Z",
+        "engagement": 94,
+        "clarity": 80,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-11T23:19:28.251Z",
+        "engagement": 94,
+        "clarity": 79,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-11T23:24:04.251Z",
+        "engagement": 95,
+        "clarity": 78,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-11T23:28:40.251Z",
+        "engagement": 95,
+        "clarity": 77,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-05-11T23:33:16.251Z",
+        "engagement": 96,
+        "clarity": 77,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-05-11T23:37:52.251Z",
+        "engagement": 95,
+        "clarity": 78,
+        "pacing": 81
+      }
+    ]
+  },
+  {
+    "id": "d813485c-dc02-4031-844b-ca738d37f425",
+    "studentName": "Mr. Catalina Barton",
+    "mentorName": "Emily Davis",
+    "date": "2026-05-10T15:22:15.320Z",
+    "duration": 87,
+    "overallScore": 77,
+    "metrics": [
+      {
+        "timestamp": "2026-05-10T15:22:15.320Z",
+        "engagement": 71,
+        "clarity": 71,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-10T15:26:50.056Z",
+        "engagement": 74,
+        "clarity": 68,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T15:31:24.793Z",
+        "engagement": 74,
+        "clarity": 67,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T15:35:59.530Z",
+        "engagement": 74,
+        "clarity": 65,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T15:40:34.267Z",
+        "engagement": 74,
+        "clarity": 68,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T15:45:09.004Z",
+        "engagement": 73,
+        "clarity": 66,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T15:49:43.741Z",
+        "engagement": 71,
+        "clarity": 65,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T15:54:18.477Z",
+        "engagement": 72,
+        "clarity": 64,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T15:58:53.214Z",
+        "engagement": 73,
+        "clarity": 62,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-05-10T16:03:27.951Z",
+        "engagement": 76,
+        "clarity": 64,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-05-10T16:08:02.688Z",
+        "engagement": 74,
+        "clarity": 65,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T16:12:37.425Z",
+        "engagement": 76,
+        "clarity": 66,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T16:17:12.162Z",
+        "engagement": 79,
+        "clarity": 69,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-05-10T16:21:46.898Z",
+        "engagement": 82,
+        "clarity": 69,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-10T16:26:21.635Z",
+        "engagement": 79,
+        "clarity": 66,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-05-10T16:30:56.372Z",
+        "engagement": 77,
+        "clarity": 63,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T16:35:31.109Z",
+        "engagement": 76,
+        "clarity": 63,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-10T16:40:05.846Z",
+        "engagement": 79,
+        "clarity": 62,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-10T16:44:40.583Z",
+        "engagement": 77,
+        "clarity": 62,
+        "pacing": 92
+      }
+    ]
+  },
+  {
+    "id": "9299b500-a6cb-405d-af5c-10bb9b5dc84d",
+    "studentName": "Miss Lori Prohaska",
+    "mentorName": "David Wilson",
+    "date": "2026-05-14T09:33:08.494Z",
+    "duration": 86,
+    "overallScore": 81,
+    "metrics": [
+      {
+        "timestamp": "2026-05-14T09:33:08.494Z",
+        "engagement": 67,
+        "clarity": 68,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-05-14T09:38:12.023Z",
+        "engagement": 67,
+        "clarity": 69,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-14T09:43:15.552Z",
+        "engagement": 68,
+        "clarity": 71,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-05-14T09:48:19.082Z",
+        "engagement": 69,
+        "clarity": 72,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-14T09:53:22.611Z",
+        "engagement": 69,
+        "clarity": 74,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-14T09:58:26.141Z",
+        "engagement": 70,
+        "clarity": 76,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-05-14T10:03:29.670Z",
+        "engagement": 72,
+        "clarity": 76,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-05-14T10:08:33.199Z",
+        "engagement": 73,
+        "clarity": 76,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-14T10:13:36.729Z",
+        "engagement": 74,
+        "clarity": 78,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-14T10:18:40.258Z",
+        "engagement": 75,
+        "clarity": 79,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-05-14T10:23:43.788Z",
+        "engagement": 76,
+        "clarity": 79,
+        "pacing": 93
+      },
+      {
+        "timestamp": "2026-05-14T10:28:47.317Z",
+        "engagement": 78,
+        "clarity": 79,
+        "pacing": 94
+      },
+      {
+        "timestamp": "2026-05-14T10:33:50.846Z",
+        "engagement": 78,
+        "clarity": 79,
+        "pacing": 95
+      },
+      {
+        "timestamp": "2026-05-14T10:38:54.376Z",
+        "engagement": 79,
+        "clarity": 79,
+        "pacing": 96
+      },
+      {
+        "timestamp": "2026-05-14T10:43:57.905Z",
+        "engagement": 80,
+        "clarity": 81,
+        "pacing": 97
+      },
+      {
+        "timestamp": "2026-05-14T10:49:01.435Z",
+        "engagement": 80,
+        "clarity": 83,
+        "pacing": 98
+      },
+      {
+        "timestamp": "2026-05-14T10:54:04.964Z",
+        "engagement": 80,
+        "clarity": 84,
+        "pacing": 99
+      }
+    ]
+  },
+  {
+    "id": "c323e138-0864-40fc-9bb6-6296a0c4f60c",
+    "studentName": "Miss Tammy Weber III",
+    "mentorName": "Alex Brown",
+    "date": "2026-04-25T13:47:06.586Z",
+    "duration": 67,
+    "overallScore": 73,
+    "metrics": [
+      {
+        "timestamp": "2026-04-25T13:47:06.586Z",
+        "engagement": 82,
+        "clarity": 70,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-04-25T13:50:27.586Z",
+        "engagement": 80,
+        "clarity": 68,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-25T13:53:48.586Z",
+        "engagement": 80,
+        "clarity": 66,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-25T13:57:09.586Z",
+        "engagement": 79,
+        "clarity": 65,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-25T14:00:30.586Z",
+        "engagement": 77,
+        "clarity": 65,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-25T14:03:51.586Z",
+        "engagement": 75,
+        "clarity": 64,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-04-25T14:07:12.586Z",
+        "engagement": 75,
+        "clarity": 63,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-04-25T14:10:33.586Z",
+        "engagement": 75,
+        "clarity": 62,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-25T14:13:54.586Z",
+        "engagement": 75,
+        "clarity": 61,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-25T14:17:15.586Z",
+        "engagement": 73,
+        "clarity": 61,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:20:36.586Z",
+        "engagement": 71,
+        "clarity": 61,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:23:57.586Z",
+        "engagement": 70,
+        "clarity": 59,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:27:18.586Z",
+        "engagement": 68,
+        "clarity": 58,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:30:39.586Z",
+        "engagement": 68,
+        "clarity": 56,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:34:00.586Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 84
+      },
+      {
+        "timestamp": "2026-04-25T14:37:21.586Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-25T14:40:42.586Z",
+        "engagement": 68,
+        "clarity": 55,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-25T14:44:03.586Z",
+        "engagement": 66,
+        "clarity": 55,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-25T14:47:24.586Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 83
+      },
+      {
+        "timestamp": "2026-04-25T14:50:45.586Z",
+        "engagement": 65,
+        "clarity": 55,
+        "pacing": 83
+      }
+    ]
+  },
+  {
+    "id": "1e10744e-5b73-445d-988a-fd78df46c230",
+    "studentName": "Sonja Quigley-Jacobi",
+    "mentorName": "Alex Brown",
+    "date": "2026-05-06T03:54:56.487Z",
+    "duration": 59,
+    "overallScore": 86,
+    "metrics": [
+      {
+        "timestamp": "2026-05-06T03:54:56.487Z",
+        "engagement": 88,
+        "clarity": 89,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T03:58:02.802Z",
+        "engagement": 88,
+        "clarity": 90,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-06T04:01:09.118Z",
+        "engagement": 88,
+        "clarity": 89,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T04:04:15.434Z",
+        "engagement": 88,
+        "clarity": 90,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-06T04:07:21.750Z",
+        "engagement": 88,
+        "clarity": 90,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-06T04:10:28.065Z",
+        "engagement": 88,
+        "clarity": 89,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-06T04:13:34.381Z",
+        "engagement": 89,
+        "clarity": 88,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-05-06T04:16:40.697Z",
+        "engagement": 90,
+        "clarity": 88,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T04:19:47.013Z",
+        "engagement": 89,
+        "clarity": 88,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T04:22:53.329Z",
+        "engagement": 89,
+        "clarity": 89,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T04:25:59.644Z",
+        "engagement": 90,
+        "clarity": 90,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-05-06T04:29:05.960Z",
+        "engagement": 89,
+        "clarity": 90,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-05-06T04:32:12.276Z",
+        "engagement": 89,
+        "clarity": 91,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-05-06T04:35:18.592Z",
+        "engagement": 88,
+        "clarity": 91,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-06T04:38:24.908Z",
+        "engagement": 88,
+        "clarity": 90,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-06T04:41:31.223Z",
+        "engagement": 87,
+        "clarity": 90,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-06T04:44:37.539Z",
+        "engagement": 86,
+        "clarity": 90,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-06T04:47:43.855Z",
+        "engagement": 86,
+        "clarity": 89,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-05-06T04:50:50.171Z",
+        "engagement": 87,
+        "clarity": 90,
+        "pacing": 76
+      }
+    ]
+  },
+  {
+    "id": "6ddb7464-adf3-4593-815b-6f1e64274d98",
+    "studentName": "Prince Huel",
+    "mentorName": "Alex Brown",
+    "date": "2026-04-09T23:03:27.315Z",
+    "duration": 90,
+    "overallScore": 91,
+    "metrics": [
+      {
+        "timestamp": "2026-04-09T23:03:27.315Z",
+        "engagement": 92,
+        "clarity": 87,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-09T23:07:57.315Z",
+        "engagement": 90,
+        "clarity": 84,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-09T23:12:27.315Z",
+        "engagement": 90,
+        "clarity": 83,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-09T23:16:57.315Z",
+        "engagement": 91,
+        "clarity": 85,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-09T23:21:27.315Z",
+        "engagement": 92,
+        "clarity": 85,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-09T23:25:57.315Z",
+        "engagement": 95,
+        "clarity": 85,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-09T23:30:27.315Z",
+        "engagement": 95,
+        "clarity": 86,
+        "pacing": 85
+      },
+      {
+        "timestamp": "2026-04-09T23:34:57.315Z",
+        "engagement": 94,
+        "clarity": 88,
+        "pacing": 87
+      },
+      {
+        "timestamp": "2026-04-09T23:39:27.315Z",
+        "engagement": 97,
+        "clarity": 87,
+        "pacing": 86
+      },
+      {
+        "timestamp": "2026-04-09T23:43:57.315Z",
+        "engagement": 99,
+        "clarity": 84,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-09T23:48:27.315Z",
+        "engagement": 100,
+        "clarity": 86,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-09T23:52:57.315Z",
+        "engagement": 100,
+        "clarity": 88,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-09T23:57:27.315Z",
+        "engagement": 99,
+        "clarity": 90,
+        "pacing": 92
+      },
+      {
+        "timestamp": "2026-04-10T00:01:57.315Z",
+        "engagement": 100,
+        "clarity": 87,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-04-10T00:06:27.315Z",
+        "engagement": 100,
+        "clarity": 90,
+        "pacing": 91
+      },
+      {
+        "timestamp": "2026-04-10T00:10:57.315Z",
+        "engagement": 99,
+        "clarity": 92,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-10T00:15:27.315Z",
+        "engagement": 97,
+        "clarity": 89,
+        "pacing": 88
+      },
+      {
+        "timestamp": "2026-04-10T00:19:57.315Z",
+        "engagement": 99,
+        "clarity": 86,
+        "pacing": 89
+      },
+      {
+        "timestamp": "2026-04-10T00:24:27.315Z",
+        "engagement": 100,
+        "clarity": 83,
+        "pacing": 90
+      },
+      {
+        "timestamp": "2026-04-10T00:28:57.315Z",
+        "engagement": 100,
+        "clarity": 86,
+        "pacing": 92
+      }
+    ]
+  },
+  {
+    "id": "8bf1e978-1d93-4494-8d9b-bad6e8ce673a",
+    "studentName": "Mrs. Carrie Raynor Sr.",
+    "mentorName": "David Wilson",
+    "date": "2026-04-19T04:30:47.755Z",
+    "duration": 69,
+    "overallScore": 90,
+    "metrics": [
+      {
+        "timestamp": "2026-04-19T04:30:47.755Z",
+        "engagement": 89,
+        "clarity": 89,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:34:51.284Z",
+        "engagement": 90,
+        "clarity": 90,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:38:54.813Z",
+        "engagement": 91,
+        "clarity": 91,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:42:58.343Z",
+        "engagement": 93,
+        "clarity": 93,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:47:01.872Z",
+        "engagement": 94,
+        "clarity": 94,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:51:05.402Z",
+        "engagement": 95,
+        "clarity": 94,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:55:08.931Z",
+        "engagement": 96,
+        "clarity": 95,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-19T04:59:12.460Z",
+        "engagement": 96,
+        "clarity": 96,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-19T05:03:15.990Z",
+        "engagement": 97,
+        "clarity": 96,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-19T05:07:19.519Z",
+        "engagement": 99,
+        "clarity": 96,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-19T05:11:23.049Z",
+        "engagement": 100,
+        "clarity": 97,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-19T05:15:26.578Z",
+        "engagement": 100,
+        "clarity": 97,
+        "pacing": 80
+      },
+      {
+        "timestamp": "2026-04-19T05:19:30.107Z",
+        "engagement": 100,
+        "clarity": 99,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-19T05:23:33.637Z",
+        "engagement": 100,
+        "clarity": 100,
+        "pacing": 81
+      },
+      {
+        "timestamp": "2026-04-19T05:27:37.166Z",
+        "engagement": 100,
+        "clarity": 100,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-19T05:31:40.696Z",
+        "engagement": 100,
+        "clarity": 100,
+        "pacing": 82
+      },
+      {
+        "timestamp": "2026-04-19T05:35:44.225Z",
+        "engagement": 100,
+        "clarity": 100,
+        "pacing": 82
+      }
+    ]
+  },
+  {
+    "id": "0bfb3c32-f2a5-4ff6-b542-237c6d1ff893",
+    "studentName": "Gene Schuster IV",
+    "mentorName": "Emily Davis",
+    "date": "2026-04-30T01:38:07.961Z",
+    "duration": 84,
+    "overallScore": 67,
+    "metrics": [
+      {
+        "timestamp": "2026-04-30T01:38:07.961Z",
+        "engagement": 65,
+        "clarity": 71,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-30T01:43:22.961Z",
+        "engagement": 63,
+        "clarity": 71,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-30T01:48:37.961Z",
+        "engagement": 63,
+        "clarity": 71,
+        "pacing": 79
+      },
+      {
+        "timestamp": "2026-04-30T01:53:52.961Z",
+        "engagement": 63,
+        "clarity": 70,
+        "pacing": 78
+      },
+      {
+        "timestamp": "2026-04-30T01:59:07.961Z",
+        "engagement": 63,
+        "clarity": 69,
+        "pacing": 77
+      },
+      {
+        "timestamp": "2026-04-30T02:04:22.961Z",
+        "engagement": 61,
+        "clarity": 68,
+        "pacing": 76
+      },
+      {
+        "timestamp": "2026-04-30T02:09:37.961Z",
+        "engagement": 61,
+        "clarity": 66,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-30T02:14:52.961Z",
+        "engagement": 61,
+        "clarity": 66,
+        "pacing": 75
+      },
+      {
+        "timestamp": "2026-04-30T02:20:07.961Z",
+        "engagement": 60,
+        "clarity": 65,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T02:25:22.961Z",
+        "engagement": 60,
+        "clarity": 65,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T02:30:37.961Z",
+        "engagement": 60,
+        "clarity": 64,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T02:35:52.961Z",
+        "engagement": 60,
+        "clarity": 63,
+        "pacing": 74
+      },
+      {
+        "timestamp": "2026-04-30T02:41:07.961Z",
+        "engagement": 60,
+        "clarity": 63,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-30T02:46:22.961Z",
+        "engagement": 60,
+        "clarity": 61,
+        "pacing": 73
+      },
+      {
+        "timestamp": "2026-04-30T02:51:37.961Z",
+        "engagement": 60,
+        "clarity": 60,
+        "pacing": 72
+      },
+      {
+        "timestamp": "2026-04-30T02:56:52.961Z",
+        "engagement": 60,
+        "clarity": 60,
+        "pacing": 71
+      }
+    ]
+  }
+]
