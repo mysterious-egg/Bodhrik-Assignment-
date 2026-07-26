@@ -1,3 +1,6 @@
+"use client";
+
+import { useRouter } from "next/navigation";
 import { format } from "date-fns";
 
 import { Badge } from "@/components/ui/badge";
@@ -22,8 +25,15 @@ function getScoreVariant(score: number): string {
 export default function SessionRow({
   session,
 }: SessionRowProps) {
+  const router = useRouter();
+
   return (
-    <tr className="transition-colors hover:bg-muted/50">
+    <tr
+      onClick={() =>
+        router.push(`/dashboard/sessions/${session.id}`)
+      }
+      className="cursor-pointer transition-colors hover:bg-muted/50 hover:shadow-sm"
+    >
       <td className="px-4 py-4 font-medium">
         {session.studentName}
       </td>
